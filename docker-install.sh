@@ -12,6 +12,4 @@ sudo apt-get install -y docker.io
 sudo apt-get install -y libffi-dev python3-dev python3-pip
 pip3 install docker-compose
 
-# 添加执行权限
-sudo chmod +x /usr/local/bin/docker
-sudo chmod +x /usr/local/bin/docker-compose
+
